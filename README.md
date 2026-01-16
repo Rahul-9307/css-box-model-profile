@@ -19,7 +19,7 @@ to create proper spacing and visual structure.
 ## Screenshots
 
 ### Styled Profile Page Preview
-![Profile Page Screenshot](./css-box-model-profile/Screenshot output)
+![Profile Page Screenshot](css-box-model-profile/Screenshot%20output.png)
 
 ## How to Run
 1. Download or clone the repository
